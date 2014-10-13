@@ -29,4 +29,4 @@ Patch the following files:
 
 ## Language
 
-The month/year replacement thingy is hard coded in the jquery.conf.js.tpl Patch and it's written in german (e.g. Januar, Februar, ... Dezember). You might want to update it to english months (e.g. January, February, ... December).
+The month/year replacement thingy is hard coded in the `jquery.conf.js.tpl` Patch and it's written in german (e.g. Januar, Februar, ... Dezember). You might want to update it to english months (e.g. January, February, ... December).
