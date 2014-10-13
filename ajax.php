@@ -10,7 +10,7 @@
  *
  * \author  confirm IT solutions, dbarton
  *
- * \license GNU Lesser General Public License, version 3.0 (LGPL-3.0)
+ * \license GNU General Public License, version 3.0 (GPL-3.0)
  */
 
 // @confirm AJAX script to clone last invoice.
